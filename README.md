@@ -5,7 +5,9 @@
 
 ## Screenshots
 
-![Jobbox Logo](/docs/images/"WhatsApp Image 2024-01-27 at 12.28.48 PM-2.jpeg")
+![Jobbox Logo](/docs/images/1.jpeg)
+![Jobbox Logo](/docs/images/2.jpeg)
+![Jobbox Logo](/docs/images/3.jpeg)
 
 Find screenshots at [ScreenShots](./docs/images)
 
