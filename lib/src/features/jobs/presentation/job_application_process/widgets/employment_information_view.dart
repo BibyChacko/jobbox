@@ -140,6 +140,8 @@ class _EmploymentInformationViewState extends State<EmploymentInformationView> {
                   if(newSkill.isEmpty){
                     return;
                   }
+                  FocusScope.of(context).unfocus();
+                  _skillsFieldController.clear();
                   widget.onSkillsAdded([newSkill]);
                   setState(() {
                     skills.add(newSkill);
