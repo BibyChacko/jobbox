@@ -1,10 +1,13 @@
 
-!(docs/jobbox_logo.png)
+![Jobbox Logo](/docs/jobbox_logo.png)
 # JobBox
-An application for searching jobs and apply for job. This is a practise exercise
+    An application for searching jobs and apply for job. This is a practise exercise
 
 ## Screenshots
-    find screenshots at ![Screenshots](docs/images/)
+
+![Jobbox Logo](/docs/images/"WhatsApp Image 2024-01-27 at 12.28.48 PM-2.jpeg")
+
+Find screenshots at [ScreenShots](./docs/images)
 
 
 ## Freezed model
